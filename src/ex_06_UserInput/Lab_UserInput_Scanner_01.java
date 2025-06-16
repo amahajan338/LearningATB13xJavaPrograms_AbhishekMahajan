@@ -11,5 +11,6 @@ public class Lab_UserInput_Scanner_01 {
         int age = scanner.nextInt();
         String canIVote = age >= 18 ? "Yes" : "No";
         System.out.println(canIVote);
+
     }
 }
