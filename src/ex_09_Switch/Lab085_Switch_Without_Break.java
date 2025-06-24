@@ -37,8 +37,6 @@ public class Lab085_Switch_Without_Break {
                 System.out.println("Sun");
             default:
                 System.out.println("Invalid, day number");
-
-
         }
     }
 }
