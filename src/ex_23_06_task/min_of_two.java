@@ -1,4 +1,4 @@
-package ex_23_task;
+package ex_23_06_task;
 
 import java.util.Scanner;
 
