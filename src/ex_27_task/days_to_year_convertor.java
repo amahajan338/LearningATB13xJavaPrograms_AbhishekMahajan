@@ -11,8 +11,8 @@ public class days_to_year_convertor {
 
         int year = a/365;
         int temp = a%365;
-        int month = temp/60;
-        int days = temp%60;
+        int month = temp/30;
+        int days = temp%30;
 
         System.out.printf("The num %d converts to %d years, %d months, %d days",a,year,month,days);
 
