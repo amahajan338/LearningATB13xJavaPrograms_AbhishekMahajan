@@ -15,6 +15,5 @@ public class days_to_year_convertor {
         int days = temp%30;
 
         System.out.printf("The num %d converts to %d years, %d months, %d days",a,year,month,days);
-
     }
 }
